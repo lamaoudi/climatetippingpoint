@@ -19,10 +19,10 @@ Framing summary: https://www.dropbox.com/s/k5azn4uso4doum2/Dec%2022%20update.ppt
 
 **Examples of Existing Efforts:**
 
-![alt text](https://github.com/lamaoudi/climatetippingpoint/blob/main/SampleSankey_Katie.png?raw=true)
+![alt text](https://github.com/lamaoudi/climatetippingpoint/blob/main/Bajželj_2013_GlobalSankey.png?raw=true)
 
 Source: Bajželj, B., Allwood, J. M., & Cullen, J. M. (2013). Designing climate change mitigation plans that add up. Environmental Science and Technology, 47(14), 8062–8069. https://doi.org/10.1021/es400399h
 
 **Rough-Cut of Future Sankey Diagram:**
 
-![alt text](https://github.com/lamaoudi/climatetippingpoint/blob/main/Bajželj_2013_GlobalSankey.png?raw=true)
+![alt text](https://github.com/lamaoudi/climatetippingpoint/blob/main/SampleSankey_Katie.png?raw=true)
