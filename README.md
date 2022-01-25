@@ -37,4 +37,8 @@ Source: Bajželj, B., Allwood, J. M., & Cullen, J. M. (2013). Designing climate 
 
 **Python Packages Options**
 
-- [Floweaver](https://pypi.org/project/floweaver/) w/ [Paper Reference](https://github.com/ricklupton/floweaver)
+[**Floweaver**](https://github.com/ricklupton/floweaver)
+
+- [Paper Reference](https://www.sciencedirect.com/science/article/pii/S0921344917301167#bib0140)
+- [Creating Beautiful Sankey Diagrams with floWeaver](https://towardsdatascience.com/creating-beautiful-sankey-diagrams-with-floweaver-dc1f02fe76bc)
+- [Documentation](https://sankeyview.readthedocs.io/en/latest/)
