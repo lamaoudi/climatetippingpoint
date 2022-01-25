@@ -25,4 +25,16 @@ Source: Bajželj, B., Allwood, J. M., & Cullen, J. M. (2013). Designing climate 
 
 **Rough-Cut of Future Sankey Diagram:**
 
-![alt text](https://github.com/lamaoudi/climatetippingpoint/blob/main/references/SampleSankey_Katie.png?raw=true)
+![alt text](https://github.com/lamaoudi/climatetippingpoint/blob/main/references/SampleSankey_Katie.png?)
+
+### Resources for Sankey Diagram Creation
+
+**Useful Articles**
+
+- [How to do a Sankey Plot in Python](https://medium.com/analytics-vidhya/how-to-do-a-sankey-plot-in-python-5298869f5e8e)
+- [4 Interactive Sankey Diagrams made in Python](https://medium.com/plotly/4-interactive-sankey-diagram-made-in-python-3057b9ee8616)
+- [D3 Interactive Visualization](https://github.com/d3/d3-sankey)
+
+**Python Packages Options**
+
+- [Floweaver](https://pypi.org/project/floweaver/) w/ [Paper Reference](https://github.com/ricklupton/floweaver)
