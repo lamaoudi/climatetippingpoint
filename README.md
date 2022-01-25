@@ -11,6 +11,6 @@ Framing summary: https://www.dropbox.com/s/k5azn4uso4doum2/Dec%2022%20update.ppt
 
 Examples of Existing Efforts: 
 
-![alt text](https://github.com/lamaoudi/climatetippingpoint/SampleSankey_Katie.png?raw=true)
+![alt text](https://github.com/lamaoudi/climatetippingpoint/blob/main/SampleSankey_Katie.png?raw=true)
 
-![alt text](https://github.com/lamaoudi/climatetippingpoint/Bajželj_2013_GlobalSankey.png?raw=true)
+![alt text](https://github.com/lamaoudi/climatetippingpoint/blob/main/Bajželj_2013_GlobalSankey.png?raw=true)
