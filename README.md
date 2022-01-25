@@ -29,16 +29,16 @@ Source: Bajželj, B., Allwood, J. M., & Cullen, J. M. (2013). Designing climate 
 
 ### Resources for Sankey Diagram Creation
 
-**Useful Articles**
+**Useful Articles:**
 
 - [How to do a Sankey Plot in Python](https://medium.com/analytics-vidhya/how-to-do-a-sankey-plot-in-python-5298869f5e8e)
 - [4 Interactive Sankey Diagrams made in Python](https://medium.com/plotly/4-interactive-sankey-diagram-made-in-python-3057b9ee8616)
 - [D3 Interactive Visualization](https://github.com/d3/d3-sankey)
 
-**Python Packages Options**
+**Python Packages Options:**
 
-[**Floweaver**](https://github.com/ricklupton/floweaver)
+1. [**Floweaver**](https://github.com/ricklupton/floweaver)
 
-- [Paper Reference](https://www.sciencedirect.com/science/article/pii/S0921344917301167#bib0140)
-- [Creating Beautiful Sankey Diagrams with floWeaver](https://towardsdatascience.com/creating-beautiful-sankey-diagrams-with-floweaver-dc1f02fe76bc)
-- [Documentation](https://sankeyview.readthedocs.io/en/latest/)
+  - [Paper Reference](https://www.sciencedirect.com/science/article/pii/S0921344917301167#bib0140)
+  - [Creating Beautiful Sankey Diagrams with floWeaver](https://towardsdatascience.com/creating-beautiful-sankey-diagrams-with-floweaver-dc1f02fe76bc)
+  - [Documentation](https://sankeyview.readthedocs.io/en/latest/)
